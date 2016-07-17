@@ -1,5 +1,11 @@
 package com.github.toubou91.algorithms;
 
+/**
+ * 
+ * https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition
+ * @author Thodoris
+ *
+ */
 public class FizzBuzz {
 
     public String getFizzBuzz(int number) {
